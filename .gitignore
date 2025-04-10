@@ -1,0 +1,8 @@
+out/
+Anykernel3-master/
+build.sh
+*.patch
+!.gitignore
+*.orig
+*.swp
+*.rej
